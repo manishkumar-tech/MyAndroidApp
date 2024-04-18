@@ -49,12 +49,6 @@ fun ArticleScreen(
                     .clip(CircleShape)
             )
 
-//            response[it]?.urls?.thumb?.let { it1 ->
-//
-//
-//showImage(it1)
-//
-//            }
 
         }
 
